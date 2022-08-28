@@ -6,7 +6,7 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: "Mardonbek Mardonbek",
+  name: "Mardonbek Madyorov",
   role: "Front End Engineer",
   description:
     "Passionate about learning and building delightful and scalable web applications. Web Developer specialized in front end development. Highly dedicated, self- motivated professional with effective leadership and communication skills. Excellent team player committed to delivering on-time high quality results to the company.",
@@ -73,6 +73,7 @@ const skills = [
   "Redux",
   "Material UI",
   "Git",
+  "Github",
 ];
 
 const contact = {
