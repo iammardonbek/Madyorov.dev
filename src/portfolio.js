@@ -37,7 +37,7 @@ const projects = [
   {
     name: "Meetups Project",
     description: "I am still working on the mobile version",
-    stack: ["CSS", "JavaScript", "React", "Next.js"],
+    stack: ["CSS", "JavaScript", "React", "Next.js", "Mongo.DB"],
     sourceCode: "https://github.com/iammardonbek/meet_project-next.js-",
     livePreview: "https://meet-project-next-js.vercel.app/",
   },
