@@ -35,17 +35,16 @@ const projects = [
     livePreview: "https://bonik-commerce-247aisucj-iammardonbek.vercel.app/",
   },
   {
-    name: "F2Movies",
-    description:
-      "A Platform that gives you the opportunity to watch movies online for free",
-    stack: ["CSS", "JavaScript", "React", "Styled-Components"],
-    sourceCode: "https://github.com/iammardonbek/F2movies_website_clone",
-    livePreview:
-      "https://f2movies-website-clone-llfpxxdp4-iammardonbek.vercel.app/",
+    name: "Meetups Project",
+    description: "I am still working on the mobile version",
+    stack: ["CSS", "JavaScript", "React", "Next.js"],
+    sourceCode: "https://github.com/iammardonbek/meet_project-next.js-",
+    livePreview: "https://meet-project-next-js.vercel.app/",
   },
   {
     name: "Traveling Website",
-    description: "There, you can look up places to visit",
+    description:
+      "There, you can look up places to visit. Mobile version is still on the process",
     stack: ["CSS", "JavaScript", "React"],
     sourceCode:
       "https://github.com/iammardonbek/Travel-project/tree/main/src/components",
@@ -71,6 +70,8 @@ const skills = [
   "Bootstrap",
   "React",
   "Redux",
+  "Next.js",
+  "Mongo.DB",
   "Material UI",
   "Git",
   "Github",
