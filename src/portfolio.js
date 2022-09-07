@@ -29,7 +29,7 @@ const projects = [
   },
   {
     name: "Bonik-Commerce",
-    description: "Commerce website to sell or buy",
+    description: "Commerce website to sell or buy.(for desktop only)",
     stack: ["CSS", "JavaScript", "React"],
     sourceCode: "https://github.com/iammardonbek/Bonik-commerce",
     livePreview: "https://bonik-commerce-247aisucj-iammardonbek.vercel.app/",
@@ -44,18 +44,11 @@ const projects = [
   {
     name: "Traveling Website",
     description:
-      "There, you can look up places to visit. Mobile version is still on the process",
+      "There, you can look up places to visit. Mobile version is still on the process. (not responsive yet)",
     stack: ["CSS", "JavaScript", "React"],
     sourceCode:
       "https://github.com/iammardonbek/Travel-project/tree/main/src/components",
     livePreview: "https://travelling-website-beta.vercel.app/",
-  },
-  {
-    name: "Dice Game",
-    description: "you can play a Dice Game here with your friend",
-    stack: ["CSS", "JavaScript"],
-    sourceCode: "https://github.com/iammardonbek/Dice-Game",
-    livePreview: "https://dice-game-orpin.vercel.app/",
   },
 ];
 
