@@ -50,6 +50,13 @@ const projects = [
       "https://github.com/iammardonbek/Travel-project/tree/main/src/components",
     livePreview: "https://travelling-website-beta.vercel.app/",
   },
+  {
+    name: "Events Website",
+    description: "I made a project about events",
+    stack: ["CSS", "JavaScript", "React", "Next.js"],
+    sourceCode: "https://github.com/iammardonbek/project-with-maxim",
+    livePreview: "https://project-with-maxim.vercel.app/",
+  },
 ];
 
 const skills = [
@@ -64,6 +71,7 @@ const skills = [
   "React",
   "Redux",
   "Next.js",
+  "TypeScript",
   "Mongo.DB",
   "Material UI",
   "Git",
