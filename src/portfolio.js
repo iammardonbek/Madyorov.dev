@@ -52,7 +52,7 @@ const projects = [
   },
   {
     name: "Events Website",
-    description: "I made a project about events",
+    description: "I made a project about events (still developing)",
     stack: ["CSS", "JavaScript", "React", "Next.js"],
     sourceCode: "https://github.com/iammardonbek/project-with-maxim",
     livePreview: "https://project-with-maxim.vercel.app/",
